@@ -28,9 +28,9 @@ button:active {
 
 button:focus {
   translate: 0.2em 0.2em;
-  box-shadow: 0.2em 0.2em rgb(194, 91, 44) inset;
-  -webkit-box-shadow: 0.2em 0.2em rgb(194, 91, 44) inset;
-  -moz-box-shadow: 0.2em 0.2em rgb(194, 91, 44) inset;
+  box-shadow: 0.2em 0.2em rgb(105,114,72) inset;
+  -webkit-box-shadow: 0.2em 0.2em rgb(105,114,72) inset;
+  -moz-box-shadow: 0.2em 0.2em rgb(105,114,72) inset;
 }
 
 /* Clock Body */
@@ -112,6 +112,10 @@ button:focus {
   font-size: 2em;
 }
 
+.break-container,
+.inc-arrow {
+  margin-right: 12px;
+}
 .break-container,
 .inc-arrow {
   margin-right: 12px;
