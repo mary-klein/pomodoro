@@ -23,7 +23,7 @@ button:active {
   text-align: center;
   box-shadow: 0.2em 0.2em rgb(62, 76, 12);
   -webkit-box-shadow: 0.2em 0.2em rgb(62, 76, 12);
-  -moz-box-shadow: 0.2em 0.2em rgb(194, 91, 44);
+  -moz-box-shadow: 0.2em 0.2em rgb(62, 76, 12);
 }
 
 button:focus {
@@ -112,10 +112,6 @@ button:focus {
   font-size: 2em;
 }
 
-.break-container,
-.inc-arrow {
-  margin-right: 12px;
-}
 .break-container,
 .inc-arrow {
   margin-right: 12px;
